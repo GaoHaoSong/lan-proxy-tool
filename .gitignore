@@ -1,0 +1,23 @@
+# 构建产物
+/ProxyTool.exe
+/obj/
+/build.log
+
+# 运行时数据
+/proxy-cache.txt
+/proxy-list.csv
+*.csv
+bench.txt
+
+# IDE / 编辑器
+/.vs/
+/.vscode/
+/.idea/
+*.user
+*.suo
+*.userprefs
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
