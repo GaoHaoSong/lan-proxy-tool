@@ -121,3 +121,9 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 
 本工具仅用于**自有网络或已获授权**的环境下的网络诊断与配置。
 请勿用于未经授权的网络探测；使用他人设备上的代理前，应取得对方同意。
+
+
+
+## 友链
+
+[linux.do](https://linux.do/)
